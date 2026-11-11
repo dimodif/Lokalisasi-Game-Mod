@@ -6,29 +6,31 @@
   <img src="https://img.shields.io/badge/No-Paywall-1976D2?style=for-the-badge" alt="No Paywall" />
 </p>
 
-Mod game terjemahan Indonesia yang dibuat untuk membantu pemain menikmati game dengan pengalaman bahasa lokal yang lebih nyaman dan mudah dipahami.
+Kumpulan mod lokalisasi dan terjemahan Bahasa Indonesia untuk berbagai game PC dan konsol. Proyek ini dibuat agar pemain bisa menikmati game dengan pengalaman bahasa lokal yang lebih nyaman dan mudah dipahami.
 
 ## ✨ Fitur
 
 - Terjemahan game gratis
 - Tanpa paywall
 - Fokus pada pengalaman bermain yang lebih nyaman
-- Mudah dikembangkan dan dibantu komunitas
+- Terbuka untuk kontribusi komunitas
 
-## 📦 Status
+## 📌 Daftar Game & Status Update
 
-Saat ini repo ini masih dalam tahap pengembangan. Daftar game yang didukung akan diperbarui secara berkala.
+| Nama Game | Platform | Versi Mod | Status Terjemahan | Link Folder |
+| :--- | :--- | :--- | :--- | :--- |
+| **Donkey Kong Bananza** | Switch | `v1.1` | 🟢 Selesai (100%) | [Buka Folder](./Donkey-Kong-Bananza/) |
+| **Persona 5 Royal** | PC / Switch | `v1.2` | 🟡 WIP (85%) | [Buka Folder](./Persona-5-Royal/) |
+| **Fire Emblem: Fortune's Weave** | Switch | `v1.0` | 🟢 Selesai (100%) | [Buka Folder](./Fire-Emblem-Fortunes-Weave/) |
 
-## 🧩 Daftar Game
-
-- Coming soon
-- Sedang dikumpulkan dan dikembangkan
+*Catatan: Unduh file ZIP mod di dalam masing-masing folder.*
 
 ## 🚀 Cara Pakai
 
-1. Pilih mod atau file terjemahan yang tersedia.
-2. Ikuti instruksi penggunaan di masing-masing folder atau dokumentasi.
-3. Gunakan dengan bijak dan sesuai lisensi yang berlaku.
+1. Pilih game dari tabel di atas.
+2. Buka folder game dan unduh file mod yang tersedia.
+3. Ikuti instruksi pemasangan di dalam folder atau dokumentasi.
+4. Gunakan dengan bijak dan sesuai lisensi yang berlaku.
 
 ## 🤝 Kontribusi
 
@@ -37,7 +39,7 @@ Kontribusi sangat terbuka untuk siapa saja.
 - Laporkan bug atau masalah
 - Ajukan terjemahan baru
 - Perbaiki kata/kalimat yang kurang natural
-- bantu update daftar game dan dokumentasi
+- Bantu memperbarui daftar game dan dokumentasi
 
 ## ⚠️ Catatan
 
