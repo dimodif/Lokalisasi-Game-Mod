@@ -29,14 +29,14 @@ Kumpulan mod lokalisasi dan terjemahan Bahasa Indonesia untuk berbagai game PC d
 | :--- | :--- | :--- | :--- | :--- |
 | **The Legend of Zelda: Ocarina of Time** | Switch 2 | `v1.1` | 🟢 Selesai | [Buka Folder](./Donkey-Kong-Bananza/) |
 | **Fire Emblem: Fortune's Weave** | Switch 2 | `v1.2` | 🟢 Selesai | [Buka Folder](./Persona-5-Royal/) |
-| **Unicorn Overlord** | Switch | `v1.0` | 🟢 Selesai | [Buka Folder](https://github.com/dimodif/Lokalisasi-Game-Mod/releases/tag/modding) |
+| **Unicorn Overlord** | Switch | `v1.0` | 🟢 Selesai | [Unduh di Releases](https://github.com/dimodif/Lokalisasi-Game-Mod/releases/tag/modding) |
 
-*Catatan: Unduh file ZIP mod di dalam masing-masing folder.*
+*Catatan: Unduh file ZIP mod di dalam masing-masing folder atau halaman release.*
 
 ## 🚀 Cara Pakai
 
 1. Pilih game dari tabel di atas.
-2. Buka folder game dan unduh file mod yang tersedia.
+2. Buka folder atau halaman release, lalu unduh file mod yang tersedia.
 3. Ikuti instruksi pemasangan di dalam folder atau dokumentasi.
 4. Gunakan dengan bijak dan sesuai lisensi yang berlaku.
 
@@ -46,12 +46,17 @@ Mod di repo ini ditujukan sebagai patch terjemahan dan tidak menyertakan game pe
 
 ## 🤝 Kontribusi
 
-Kontribusi sangat terbuka untuk siapa saja.
+Kontribusi sangat terbuka untuk siapa saja: laporkan bug, ajukan terjemahan, atau bantu memperbaiki terjemahan dan dokumentasi.
 
-- Laporkan bug atau masalah
-- Ajukan terjemahan baru
-- Perbaiki kata/kalimat yang kurang natural
-- Bantu memperbarui daftar game dan dokumentasi
+Donasi sepenuhnya sukarela, tidak memberikan akses atau konten tambahan, dan hanya sebagai dukungan tulus untuk kreator.
+
+<p align="center">
+  <a href="https://trakteer.id/dimodif" title="Dukung kreator di Trakteer">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Ftrakteer.id%2Fdimodif" alt="QR code untuk berdonasi melalui Trakteer" width="220" />
+  </a>
+  <br />
+  <a href="https://trakteer.id/dimodif">Scan atau klik QR code untuk mendukung kreator di Trakteer</a>
+</p>
 
 ## 📜 Lisensi
 
