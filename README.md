@@ -8,6 +8,14 @@
 
 Kumpulan mod lokalisasi dan terjemahan Bahasa Indonesia untuk berbagai game PC dan konsol. Proyek ini dibuat agar pemain bisa menikmati game dengan pengalaman bahasa lokal yang lebih nyaman dan mudah dipahami.
 
+<p align="center">
+  <a href="https://dimodif.my.id/">dimodif.my.id</a> |
+  <a href="https://trakteer.id/dimodif/rewards">Trakteer</a> |
+  <a href="https://t.me/dim0dif">Telegram</a>
+  <br />
+  <strong>SUPPORT TERUS BIAR GAK TERHALANG PAYWALL!</strong>
+</p>
+
 ## ✨ Fitur
 
 - Terjemahan game gratis
