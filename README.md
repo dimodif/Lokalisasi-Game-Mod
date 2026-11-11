@@ -1,4 +1,4 @@
-# 🎮 Lokalisasi Game Mod
+# 🎮 Lokalisasi Game Mod by dimodif.my.id
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Indonesian-00C853?style=for-the-badge" alt="Indonesian" />
