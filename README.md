@@ -19,9 +19,9 @@ Kumpulan mod lokalisasi dan terjemahan Bahasa Indonesia untuk berbagai game PC d
 
 | Nama Game | Platform | Versi Mod | Status Terjemahan | Link Folder |
 | :--- | :--- | :--- | :--- | :--- |
-| **Donkey Kong Bananza** | Switch | `v1.1` | 🟢 Selesai (100%) | [Buka Folder](./Donkey-Kong-Bananza/) |
-| **Persona 5 Royal** | PC / Switch | `v1.2` | 🟡 WIP (85%) | [Buka Folder](./Persona-5-Royal/) |
-| **Fire Emblem: Fortune's Weave** | Switch | `v1.0` | 🟢 Selesai (100%) | [Buka Folder](./Fire-Emblem-Fortunes-Weave/) |
+| **The Legend of Zelda: Ocarina of Time** | Switch 2 | `v1.1` | 🟢 Selesai | [Buka Folder](./Donkey-Kong-Bananza/) |
+| **Fire Emblem: Fortune's Weave** | Switch 2 | `v1.2` | 🟢 Selesai | [Buka Folder](./Persona-5-Royal/) |
+| **Unicorn Overlord** | Switch | `v1.0` | 🟢 Selesai | [Buka Folder](./Fire-Emblem-Fortunes-Weave/) |
 
 *Catatan: Unduh file ZIP mod di dalam masing-masing folder.*
 
