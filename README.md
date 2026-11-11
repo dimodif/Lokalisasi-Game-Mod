@@ -32,13 +32,9 @@ Kumpulan mod lokalisasi dan terjemahan Bahasa Indonesia untuk berbagai game PC d
 3. Ikuti instruksi pemasangan di dalam folder atau dokumentasi.
 4. Gunakan dengan bijak dan sesuai lisensi yang berlaku.
 
-## ⚠️ Disclaimer & Hak Cipta
+## ⚠️ Disclaimer
 
-- Repo ini ditujukan untuk menyediakan mod/patch terjemahan, bukan salinan game. Kami tidak bermaksud menyediakan atau mendistribusikan game penuh, ROM, ISO, executable, maupun materi berhak cipta milik pihak lain.
-- Sebelum mengunduh atau memasang, periksa isi file mod. File yang dibagikan seharusnya hanya berisi patch atau materi yang diperlukan untuk menerapkan terjemahan, dan tidak menyertakan file game atau aset berhak cipta tanpa izin.
-- Pengguna harus memiliki game asli dan bertanggung jawab memastikan penggunaan mod sesuai hukum, ketentuan platform, dan hak pemegang hak cipta yang berlaku.
-- Nama game dan merek dagang tetap milik pemiliknya masing-masing. Proyek ini adalah proyek komunitas dan tidak berafiliasi dengan atau didukung oleh para pemilik tersebut.
-- Disclaimer ini menjelaskan maksud dan cakupan proyek, tetapi tidak menjamin bahwa suatu materi bebas dari klaim hak cipta atau tindakan DMCA. Jika Anda adalah pemegang hak dan memiliki keberatan, silakan hubungi pengelola repo melalui GitHub agar materi terkait dapat ditinjau.
+Mod di repo ini ditujukan sebagai patch terjemahan dan tidak menyertakan game penuh, ROM, ISO, atau executable. Pastikan Anda memiliki game asli dan mematuhi ketentuan pemegang hak. Baca [Disclaimer & Hak Cipta](DISCLAIMER.md) untuk informasi lengkap. Disclaimer ini tidak menjamin bebas dari klaim hak cipta atau DMCA.
 
 ## 🤝 Kontribusi
 
