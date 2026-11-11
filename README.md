@@ -27,7 +27,7 @@ Kumpulan mod lokalisasi dan terjemahan Bahasa Indonesia untuk berbagai game PC d
 
 | Nama Game | Platform | Versi Mod | Status Terjemahan | Link Folder |
 | :--- | :--- | :--- | :--- | :--- |
-| **The Legend of Zelda: Ocarina of Time** | Switch 2 | `v1.0` | 🟢 Selesai | [Buka Link] |
+| **The Legend of Zelda: Ocarina of Time** | Switch 2 | `v1.0` | 🟢 Selesai | [Buka Link](https://github.com/dimodif/Lokalisasi-Game-Mod/releases/tag/oot) |
 | **Fire Emblem: Fortune's Weave** | Switch 2 | `v1.0` | 🟢 Selesai | [Buka Link](https://github.com/dimodif/Lokalisasi-Game-Mod/releases/tag/fefw) |
 | **Unicorn Overlord** | Switch | `v1.0` | 🟢 Selesai | [Buka Link](https://github.com/dimodif/Lokalisasi-Game-Mod/releases/tag/modding) |
 
