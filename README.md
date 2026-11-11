@@ -21,7 +21,7 @@ Kumpulan mod lokalisasi dan terjemahan Bahasa Indonesia untuk berbagai game PC d
 | :--- | :--- | :--- | :--- | :--- |
 | **The Legend of Zelda: Ocarina of Time** | Switch 2 | `v1.1` | 🟢 Selesai | [Buka Folder](./Donkey-Kong-Bananza/) |
 | **Fire Emblem: Fortune's Weave** | Switch 2 | `v1.2` | 🟢 Selesai | [Buka Folder](./Persona-5-Royal/) |
-| **Unicorn Overlord** | Switch | `v1.0` | 🟢 Selesai | [Buka Folder](./Fire-Emblem-Fortunes-Weave/) |
+| **Unicorn Overlord** | Switch | `v1.0` | 🟢 Selesai | [Buka Folder](https://github.com/dimodif/Lokalisasi-Game-Mod/releases/tag/modding) |
 
 *Catatan: Unduh file ZIP mod di dalam masing-masing folder.*
 
